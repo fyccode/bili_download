@@ -13,7 +13,7 @@
 
 2.运行
 直接运行：进入main目录，```go run main.go```就行
-编译后运行：进入main目录 go build -o xxxx.exe(自定义的路径文件名) main.go  
+编译后运行：进入main目录 ```go build -o xxxx.exe(自定义的路径文件名) main.go```
            运行该exe文件即可
 
 3.程序运行过程中两处需要手动输入，第一处是视频url，第二处是选择视频清晰度(输入清晰度对应的编号)
