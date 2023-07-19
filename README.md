@@ -12,7 +12,7 @@
 1.必须在桌面创建一个cookie.txt文件存放cookie(你的b站用户信息)
 
 2.运行
-直接运行：进入main目录，go run main.go就行
+直接运行：进入main目录，```go run main.go```就行
 编译后运行：进入main目录 go build -o xxxx.exe(自定义的路径文件名) main.go  
            运行该exe文件即可
 
